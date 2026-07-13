@@ -1,0 +1,43 @@
+/* Externe Ordner (Symlinks) rot färben
+scheinen aber nicht anders benannt zu werden als normale?
+
+
+.nav-folder-title[data-path="_1956"] {
+    color: #ed99e4 !important;
+}
+*/
+
+/* Standard Ordner- und Dateienfarbe */
+
+/* Alle Ordner-Titel generell heller/kontrastreicher */
+.nav-folder-title {
+  color:rgb(241, 222, 195) !important;
+}
+
+/* Optional: auch die einzelnen Dateien in der Sidebar  */
+.nav-file-title {
+  color: var(--text-normal) !important;
+}
+
+
+
+
+/* Bestimmte Ordner unterschiedlich färben */
+
+
+
+.nav-folder-title[data-path="Themen"] {
+    color: #f66ed4 !important;
+}
+
+.nav-folder-title[data-path="Projekte"] {
+    color: #f7627b !important;
+}
+
+.nav-folder-title[data-path="Philosophie"] {
+    color: #8ef095 !important;
+}
+
+.nav-folder-title[data-path="Literatur"] {
+    color: #4dabf7 !important;
+}

@@ -1,0 +1,16 @@
+{
+  "livePreview": true,
+  "showLineNumber": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "accentColor": "#214f5e",
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "consolas",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "generated.colored-folder",
+    "Text Document (neu)",
+    "test",
+    "links",
+    "folderfarben",
+    "vscode-farben"
+  ],
+  "cssTheme": ""
+}

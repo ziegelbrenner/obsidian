@@ -1,0 +1,89 @@
+
+
+
+
+
+
+/* =========================================
+   LINK-FARBEN: BEARBEITUNG + LESEANSICHT
+   ========================================= */
+
+/* --- 1. BEARBEITUNGSMODUS (Live Preview) --- */
+/* Interne Links: [[Notiz]] */
+span.cm-hmd-internal-link {
+  color: #66b2ff !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+  font-weight: 500;
+}
+
+/* Externe Links: https://... */
+span.cm-url {
+  color: #ff9e64 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+  font-weight: 500;
+}
+
+/* Hover-Effekte im Editor */
+span.cm-hmd-internal-link:hover {
+  color: #a3d1ff !important;
+  background-color: rgba(102, 178, 255, 0.15) !important;
+}
+
+span.cm-url:hover {
+  color: #ffb899 !important;
+  background-color: rgba(255, 158, 100, 0.15) !important;
+}
+
+/* --- 2. LESEANSICHT (Reading View) --- */
+/* Interne Links */
+.markdown-preview-view a.internal-link {
+  color: #66b2ff !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+  font-weight: 500;
+}
+
+/* Externe Links */
+.markdown-preview-view a.external-link {
+  color: #ff9e64 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+  font-weight: 500;
+}
+
+/* Hover-Effekte in der Leseansicht */
+.markdown-preview-view a.internal-link:hover {
+  color: #a3d1ff !important;
+  background-color: rgba(102, 178, 255, 0.15) !important;
+}
+
+.markdown-preview-view a.external-link:hover {
+  color: #ffb899 !important;
+  background-color: rgba(255, 158, 100, 0.15) !important;
+}
+
+/* --- 3. FALLBACK FÜR ANDERE MODI (Source View) --- */
+/* Falls du den reinen Quelltext-Modus nutzt */
+.markdown-source-view.mod-cm4 span.cm-hmd-internal-link,
+.markdown-source-view.mod-cm4 span.cm-url {
+  color: inherit !important; /* Nimmt die Farbe des Elternteils */
+}
+
+/* Systemfarben */
+
+/* Empty-State (Neuer Tab) besser lesbar machen */
+.empty-state-action {
+  color: var(--text-normal) !important;
+  font-size: 1.05em;
+  opacity: 1 !important; /* falls Obsidian den Text absichtlich abschwächt */
+}
+
+.empty-state-action:hover {
+  color: var(--text-accent) !important;
+}
+
+.empty-state-action-hotkey {
+  color: var(--text-muted) !important;
+}
