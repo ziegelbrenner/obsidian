@@ -3,5 +3,7 @@
   "cmdr",
   "dataview",
   "obsidian-zotero-desktop-connector",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "tag-wrangler",
+  "quick-explorer"
 ]
