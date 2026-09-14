@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d4882768eda603da",
+        "id": "e85f1c32de85d9c7",
         "type": "tabs",
         "children": [
           {
-            "id": "a28c878bcd176b2d",
+            "id": "9f983237eeb66686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_template/standard-frontmatter.md.md",
+                "file": "clippings/Afd Sachsen in Graz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "standard-frontmatter.md"
-            }
-          },
-          {
-            "id": "78a91a551dd41a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projekte/Unbenannt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unbenannt"
-            }
-          },
-          {
-            "id": "266a201445ce1d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unbenannt 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unbenannt 6"
-            }
-          },
-          {
-            "id": "6c0e1e4a1b2179ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/VS Code Seitenleiste Konfiguration wiederherstellen.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "VS Code Seitenleiste Konfiguration wiederherstellen"
-            }
-          },
-          {
-            "id": "a8a737570b8c934a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dev.to/emmanuelthecoder/vs-code-settings-sync-basics-troubleshooting-and-more-3hm",
-                "title": "VS Code Settings Sync: Basics, Troubleshooting, and More - DEV Community",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "VS Code Settings Sync: Basics, Troubleshooting, and More - DEV Community"
+              "title": "Afd Sachsen in Graz"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "472391f0612c4953",
@@ -273,50 +217,59 @@
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": true,
       "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": true,
       "templates:Vorlage einfügen": true,
       "command-palette:Befehlspalette öffnen": false,
       "publish:Änderungen veröffentlichen": false
     }
   },
-  "active": "a8a737570b8c934a",
+  "active": "9f983237eeb66686",
   "lastOpenFiles": [
-    "Clippings/VS Code Seitenleiste Konfiguration wiederherstellen.md",
-    "Clippings/VS Code Script für Wortsuche mit Kontextausgabe.md",
-    "Projekte/Sofia Roman/erik_treffer.md",
-    "Literatur/meisgeier_treffer.md",
-    "Literatur/stangeler_treffer.md",
-    "Projekte/Sofia Roman/josef_treffer.md",
-    "Clippings/Begriffsgeschichte links.Meines Wissens entstand der Begriff in der.md",
-    "Clippings/Ad Heins Narrenschift. Von der Kunst des Romans  Deutschland Archiv.md",
-    "Clippings/VS Code Snippets mit Multicommand konfigurieren.md",
-    "Clippings/Yaml-Formatter in VS Code.md",
-    "Themen/Kommunismus_Bolschewismus/DDR_Ulbricht/file.tif",
-    "Themen/Kommunismus_Bolschewismus/DDR_Ulbricht/Kowalczuk_Ulbricht-2_Inhaltsverzeichnis.pdf",
-    "Themen/Kommunismus_Bolschewismus/DDR_Ulbricht/Kowalczuk_Ulbricht-1_Inhaltsverzeichnis.pdf",
-    "Themen/Kommunismus_Bolschewismus/DDR_Ulbricht",
-    "Philosophie/Adorno/Minimamoralia.html",
-    "Clippings/Wissenschaftlerinnen zerpflücken das Lobautunnel-Projekt Stellungnahme der Scientists for Future Wien, NÖ und Burgenland - Celsius - der Blog von Scientists for Future Österreich.md",
-    "_template/standard-frontmatter.md.md",
-    "Clippings/Strategische Prüfung empfiehlt keine Lobautunnel-Umsetzung.md",
-    "test.md",
-    "Clippings/WSL zu MSYS2 Pfadkonvertierung.md",
-    "Clippings/Hitzeschutz            Regierung will Maßnahmen erleichtern.md",
-    "Clippings/Frontmatter-Konvention.md",
-    "Themen/Frontmatter-Konvention.md",
-    "Unbenannt 7.md",
-    "Unbenannt 6.md",
-    "Projekte/Unbenannt.md",
-    "Unbenannt 5.md",
-    "Unbenannt 4.md",
-    "Unbenannt 3.md",
-    "Halde/Unbenannt 2.md",
-    "_template/test.md.md",
-    "Clippings",
-    "Philosophie/Amery/temp/Gesamtdatei/Brandl_ad_Amery_Abrechnunbg_Gegen-Foucault.tif",
-    "Philosophie/Amery/temp/Gesamtdatei",
-    "Philosophie/Amery/temp/Brandl_ad_Amery_Abrechnunbg_Gegen-Foucault_amery-foucault_0016.tif",
-    "Philosophie/Amery/temp/Brandl_ad_Amery_Abrechnunbg_Gegen-Foucault_amery-foucault_0015.tif",
+    "clippings/Neuer Chat.md",
+    "clippings/Afd Sachsen in Graz.md",
+    "clippings/Aktuell Dilemma mit Github Page.md",
+    "clippings/Batchdatei verbessern.md",
+    "clippings/welcher Kurze literarische Text (circa 15 Seiten) behandelt das Thema freier Wille.md",
+    "clippings/Amesbauer. Burschenschaft. Rechtsextreme Kreise.md",
+    "clippings/Amesbauer-gratuliert-rechtsextremistischer-AfD.jpg",
+    "clippings/GitHub Pages Macchie.md",
+    "clippings/DVD zu ISO-Datei konvertieren 1.md",
+    "clippings/musil-dvd.md",
+    "clippings/FolioViews 16‑Bit‑Fehler beheben.md",
+    "clippings/DVD zu ISO-Datei konvertieren.md",
+    "clippings/GRIN - Robert Musils literarische Frauenfiguren.md",
+    "clippings/Literatur zu Musil.md",
+    "themen/rathenau/sekundaerliteratur/essays.epub",
+    "themen/rathenau/sekundaerliteratur/Schöndummheit. Über Robert Musil.pdf",
+    "themen/rathenau/sekundaerliteratur/_book_9783846752050_B9783846752050-s011-preview.pdf",
+    "Die FURCHE.md",
+    "clippings/Wer war Robert Musil.md",
+    "clippings/thomas schmid Das unglaubliche Leben des Walther Rathenau.md",
+    "clippings/Musil Rathenau Erzähler Rolle.md",
+    "themen/rathenau/gesammelte schriften/Inhalt Baende 1-2.jpg",
+    "themen/rathenau/gesammelte schriften/Inhalt Baende 4-5.jpg",
+    "themen/rathenau/gesammelte schriften/Inhalt Baende 3-4.jpg",
+    "themen/rathenau/gesammelte schriften/3-4.jpg",
+    "themen/rathenau/gesammelte schriften/1-2.jpg",
+    "themen/rathenau/gesammelte schriften/4-5.jpg",
+    "themen/rathenau/einzelschriften/frauenrechte.jpg",
+    "themen/rathenau/gesammelte schriften/frauenrechte.jpg",
+    "themen/rathenau/gesammelte schriften/signal-2026-09-05-15-50-42-347_004.jpg",
+    "themen/rathenau/sekundaerliteratur/graf_kessler_walther-rathenau.epub",
+    "themen/rathenau/sekundaerliteratur/Physik und verwandte Wissenschaften in MoE Dissertation.pdf",
+    "themen/rathenau/sekundaerliteratur/die-groe-konfusion-der-roman-der-klassischen-moderne-und-die-weltanschauungsliteratur-1nbsped-9783956509957-9783956509964_compress.pdf",
+    "clippings/Musil Anmerkung zu einer Metapsychik.md",
+    "clippings/rclone Global Flags.md",
+    "themen/rathenau/einzelschriften/politische briefe/mitschrift.md",
+    "themen/rathenau/einzelschriften/politische briefe/rathenau_politische_briefe.pdf",
+    "themen/rathenau/einzelschriften/politische briefe",
+    "themen/rathenau/einzelschriften/zur mechanik des geistes/inhalt.pdf",
+    "themen/rathenau/einzelschriften/zur mechanik des geistes/inhalt.md",
+    "themen/rathenau/einzelschriften/zur mechanik des geistes/extrahiert.md",
+    "themen/rathenau/einzelschriften/zur mechanik des geistes/extrahiert.pdf",
+    "themen/rathenau/einzelschriften/zur mechanik des geistes/readme.md",
+    "themen/rathenau/einzelschriften/rathenau_reflexionen/readme.md",
+    "themen/rathenau/einzelschriften/rathenau_reflexionen/Inhalt_Reflexionen.md",
+    "themen/rathenau/Mitschrift.md",
     "Unbenannt.canvas",
     "Unbenannt 3.canvas",
     "Unbenannt 2.canvas",
@@ -325,16 +278,6 @@
     "Unbenannt 5.canvas",
     "Unbenannt 6.canvas",
     "Unbenannt 4.canvas",
-    "Projekte/Fromm Autoritaetsstudie/Fromms Studie/265.jpg",
-    "Projekte/Fromm Autoritaetsstudie/Fromms Studie/267.jpg",
-    "Projekte/Fromm Autoritaetsstudie/Fromms Studie/266.jpg",
-    "Projekte/Fromm Autoritaetsstudie/Artikel Winkler/gesamt.jpg",
-    "Philosophie/Adorno/Habermas#Horkheimer und Adorno 130ff - Unbekannt.jpg",
-    "Philosophie/Antike Philosophie/Heinrich_Sophisten-Plato_Wahrheit/13.jpg",
-    "Philosophie/Antike Philosophie/Heinrich_Sophisten-Plato_Wahrheit/11.jpg",
-    "Philosophie/Antike Philosophie/Heinrich_Sophisten-Plato_Wahrheit/10.jpg",
-    "Philosophie/Antike Philosophie/Heinrich_Sophisten-Plato_Wahrheit/14.jpg",
-    "Philosophie/Antike Philosophie/Heinrich_Sophisten-Plato_Wahrheit/09.jpg",
     "Themen/biostuff/_biostuff.canvas.canvas",
     "_biostuff/biostuff..canvas"
   ]
